@@ -81,7 +81,6 @@ ProjectAAS/
 └── packages.config
 ```
 
-
 ### Key Directories and Files
 
 - **App_Start/**: Contains application startup configurations.
@@ -91,6 +90,7 @@ ProjectAAS/
 - **About.aspx**: Razor Page for the About section.
 - **About.aspx.cs**: Code-behind file for About.aspx.
 - **About.aspx.designer.cs**: Designer file for About.aspx.
+- **Bundle.config**: Configuration file for bundling and minification.
 - **Configurator.cs**: Configuration helper class.
 - **Contact.aspx**: Razor Page for the Contact section.
 - **Contact.aspx.cs**: Code-behind file for Contact.aspx.
@@ -99,6 +99,22 @@ ProjectAAS/
 - **Default.aspx**: Razor Page for the default landing page.
 - **Default.aspx.cs**: Code-behind file for Default.aspx.
 - **Default.aspx.designer.cs**: Designer file for Default.aspx.
+- **Feather.ico**: Favicon for the website.
+- **Global.asax**: Global application class.
+- **Global.asax.cs**: Code-behind file for Global.asax.
+- **Grade.cs**: Class file for Grade entity.
+- **GradeInfo.aspx**: Razor Page for viewing grade information.
+- **GradeInfo.aspx.cs**: Code-behind file for GradeInfo.aspx.
+- **GradeInfo.aspx.designer.cs**: Designer file for GradeInfo.aspx.
+- **Grades.aspx**: Razor Page for managing grades.
+- **Grades.aspx.cs**: Code-behind file for Grades.aspx.
+- **Grades.aspx.designer.cs**: Designer file for Grades.aspx.
+- **Login.aspx**: Razor Page for login.
+- **Login.aspx.cs**: Code-behind file for Login.aspx.
+- **Login.aspx.designer.cs**: Designer file for Login.aspx.
+- **ProjectAAS.csproj**: Project file for the application.
+- **ProjectAAS.sln**: Solution file for the application.
+- **README.md**: Readme file you are currently reading.
 - **Site.Master**: Master page for the application.
 - **Site.Master.cs**: Code-behind file for Site.Master.
 - **Site.Master.designer.cs**: Designer file for Site.Master.
@@ -138,7 +154,7 @@ ProjectAAS/
 ## Prerequisites
 
 - Visual Studio with ASP.NET and Web Development workload installed
-- .NET Framework 4.7.2 or later
+- .NET Framework 6 or later
 
 ## Setup and Installation
 
