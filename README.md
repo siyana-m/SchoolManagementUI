@@ -153,6 +153,7 @@ ProjectAAS/
 
 ## Prerequisites
 
+- [Visual Studio](https://visualstudio.microsoft.com/) with ASP.NET and Web Development workload installed
 - [.NET Core SDK](https://dotnet.microsoft.com/download) (version 6.0 or later)
 - [SQL Server Management Studio (SSMS)](https://aka.ms/ssmsfullsetup) (for database management)
 
